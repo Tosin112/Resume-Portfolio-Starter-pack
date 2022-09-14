@@ -9,7 +9,7 @@
     "email": "olaniyantosin112@gmail.com",
     "phone": "+234 7017698619",
     "address": {
-      "street": "7B, Science road, Unilag Estate",
+      "street": "5, Science road, Unilag Estate",
       "city": "Magodo, Lagos",
       "state": "Lagos",
       "zip": "100001"
@@ -42,19 +42,23 @@
     "skills": [
       {
         "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NextJs",
         "level": "60%"
       },
       {
         "name": "Node.js",
-        "level": "70%"
-      },
-      {
-        "name": "Git",
         "level": "50%"
       },
       {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
         "name": "JavaScript",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Web Development",
@@ -92,7 +96,7 @@
         "title": "SEO SITE",
         "category": "HTML, CSS, JS",
         "image": "seo-site.png",
-        "url": ""
+        "url": "https://seosite-seven.vercel.app/"
       },
       {
         "title": "MEDIUM SANITY CMS CLONE",
@@ -105,6 +109,12 @@
         "category": "Next.js, NextAuth, Supabase, StepZen, GraphQl, TypeScript, Tailwind",
         "image": "reddit-clone.png",
         "url": "https://redditmain.vercel.app/"
+      },
+      {
+        "title": "INSTAGRAM CLONE",
+        "category": "Next.js, NextAuth, Supabase, StepZen, GraphQl, TypeScript, Tailwind",
+        "image": "instagramClone.png",
+        "url": "https://insta-build-evx86xpm5-tosin112.vercel.app/"
       }
     ]
   },
